@@ -1,4 +1,21 @@
-### Hi there 👋
+# Hola Mundo!🐱‍👓
+
+> "Mereces lo que sueñas" -Gustavo Cerati
+
++ Estudiante en ESCOM 👨🏻‍💻
++ Ingenieria en Sistemas Computacionales
++ Cursando 4 semestre 👨🏻‍🎓
+---
+**Tecnologias que conozco**
+* SQL (Basico)
+* Lenguaje C (Basico)
+* HTML (Basico)
+* CSS (Basico)
+* JavaScript (Basico)
+* Python (Basico)
+
+**Correo de contacto 📧**: julrodrie.117@gmail.com
+
 
 <!--
 **JulioRodriguez17/JulioRodriguez17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
