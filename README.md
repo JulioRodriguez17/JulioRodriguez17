@@ -4,16 +4,20 @@
 
 + Estudiante en ESCOM 👨🏻‍💻
 + Ingenieria en Sistemas Computacionales
-+ Cursando 4 semestre 👨🏻‍🎓
++ Cursando 6 semestre 👨🏻‍🎓
 ---
 **Tecnologias que conozco**
-* SQL (Basico)
-* Lenguaje C (Basico)
-* HTML (Basico)
-* CSS (Basico)
-* JavaScript (Basico)
+* SQL (Medio)
+* Lenguaje C (Medio)
+* HTML (Medio)
+* CSS (Medio)
+* JavaScript (Medio)
 * Python (Basico)
 
+**Actualmente estudiando:** 
+* React ☣
+* Diseño de UX (Google) 📚
+  
 **Correo de contacto 📧**: julrodrie.117@gmail.com
 
 
