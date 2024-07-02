@@ -6,6 +6,9 @@
 + Ingenieria en Sistemas Computacionales
 + Cursando 6 semestre 👨🏻‍🎓
 ---
+**Certificado en: **
+* Google Cloud Foundations
+  
 **Tecnologias que conozco**
 * SQL (Medio)
 * Lenguaje C (Medio)
