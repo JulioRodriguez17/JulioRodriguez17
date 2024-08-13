@@ -4,7 +4,7 @@
 
 + Estudiante en ESCOM 👨🏻‍💻
 + Ingenieria en Sistemas Computacionales
-+ Cursando 6 semestre 👨🏻‍🎓
++ Cursando 7 semestre 👨🏻‍🎓
 ---
 **Certificado en**
 * Google Cloud Foundations
