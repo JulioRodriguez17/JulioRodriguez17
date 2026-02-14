@@ -2,20 +2,25 @@
 
 > "Mereces lo que sueñas" -Gustavo Cerati
 
-+ Estudiante en ESCOM 👨🏻‍💻
++ Egresado de ESCOM 👨🏻‍💻
 + Ingenieria en Sistemas Computacionales
-+ Cursando 8 semestre 👨🏻‍🎓
++ Trainee en Badak 🦏
 ---
 **Certificado en**
 * Google Cloud Foundations
   
-**Tecnologias que conozco**
+**Tecnologias que conozco **
 * SQL (Medio)
-* Lenguaje C (Medio)
-* HTML (Medio)
-* CSS (Medio)
-* JavaScript (Medio)
-* Python (Basico)
+* HTML 
+* CSS 
+* JavaScript 
+* Python
+
+**Frameworks que sé usar 🤓☝🏻**
++ React
++ Angular
++ Astro
++ Springboot
 
 **Actualmente estudiando:** 
 * React ☣
