@@ -9,22 +9,25 @@
 **Certificado en**
 * Google Cloud Foundations
   
-**Tecnologias que conozco **
-* SQL (Medio)
+**Tecnologias que conozco**
+* SQL 
 * HTML 
 * CSS 
 * JavaScript 
 * Python
+* TypeScript
 
 **Frameworks que sé usar 🤓☝🏻**
 + React
 + Angular
 + Astro
 + Springboot
++ Pandas
 
 **Actualmente estudiando:** 
 * React ☣
-* Diseño de UX (Google) 📚
+* Analisis de Datos
+* Herramientas de BI
   
 **Correo de contacto 📧**: julrodrie.117@gmail.com
 
